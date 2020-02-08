@@ -1,6 +1,4 @@
-# Source codes for AISTATS 2020 submission "Graph Coarsening with Preserved Spectral Properties"
-
-This is the source codes for AISTATS 2020 submission "Graph Coarsening with Preserved Spectral Properties".
+# Source codes for AISTATS 2020 Paper "Graph Coarsening with Preserved Spectral Properties"
 
 
 ## Installation
